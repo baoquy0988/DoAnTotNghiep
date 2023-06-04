@@ -1,0 +1,2 @@
+const SITE_KEY="6Lf0rUAmAAAAAAf7RdT1j02QmkO3FAFw1J9U9C5X"
+export default SITE_KEY
